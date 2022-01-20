@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 ## Overview of Project
-Ninth-graders’ test scores at Thomas High School appear to have been altered, pointing to academic dishonesty. The school board would like to uphold testing standards while omitting any data that may be compromised. In order to do so, Thomas High School’s reading and math grades for the ninth-grade class must be replaced with NaNs. Once the data edit is completed, repeat the school-analysis and determine how these changes affect the overall 
+Ninth-grade test scores at Thomas High School appear to have been altered, pointing to academic dishonesty. The school board would like to uphold testing standards while omitting any data that may be compromised. In order to do so, Thomas High School’s reading and math grades for the ninth-grade class must be replaced with NaNs. Once the data edit is completed, gather total number of students, schools, and budget for each school in the district. Then, calculate the average math, reading scores and passing percentage for each school and the overall district. Finally, analyze the results to determine how the grade-change affected the existing results.
+
  
 ## School Analysis and Outcome
 
